@@ -160,7 +160,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -172,7 +172,7 @@
          "name":"Teppiche",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -184,7 +184,7 @@
          "name":"Teppich oben",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -196,7 +196,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -213,7 +213,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -231,7 +231,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -249,7 +249,7 @@
                  "value":3
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -1026,7 +1026,7 @@
         {
          "columns":8,
          "firstgid":577,
-         "image":"Tilesets\/BaseChip_pipo.png",
+         "image":"Tilesets\/Pipoya RPG Tileset 32x32\/BaseChip_pipo.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
